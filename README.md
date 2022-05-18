@@ -11,4 +11,10 @@ The left matrix is matrix with pixel energies, right one is summed matrix in whi
 <br />
 <img width="450" alt="SumMatrix" src="https://github.com/Sonofasleep/Seam_Carving/blob/master/Pixel%20Sum%20Matrix.png">
 
-The results are like this:
+The results are like this: <br />
+
+Original image:<br />
+<img alt="Trees" src="https://github.com/Sonofasleep/Seam_Carving/blob/master/Seam%20Carving/task/test/trees.png">
+
+Reduced image:<br />
+<img alt="TreesReduced" src="https://github.com/Sonofasleep/Seam_Carving/blob/master/Seam%20Carving/task/test/trees-reduced.png">
